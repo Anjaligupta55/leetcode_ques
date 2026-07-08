@@ -79,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
