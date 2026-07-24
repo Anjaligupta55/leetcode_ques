@@ -52,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1260-shift-2d-grid) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
