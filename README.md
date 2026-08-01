@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0328-odd-even-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0328-odd-even-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0050-powx-n) |
 ## Matrix
 |  |
