@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0050-powx-n) |
+| [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0877-stone-game) |
