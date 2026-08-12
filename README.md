@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0164-maximum-gap) |
+| [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0877-stone-game) |
@@ -66,17 +67,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1260-shift-2d-grid) |
 ## Tree
