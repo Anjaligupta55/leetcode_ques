@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
