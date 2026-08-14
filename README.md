@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0541-reverse-string-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0541-reverse-string-ii) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0877-stone-game](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Manacher
 |  |
@@ -257,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
