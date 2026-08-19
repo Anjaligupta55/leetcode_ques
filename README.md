@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0198-house-robber) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1260-shift-2d-grid) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
