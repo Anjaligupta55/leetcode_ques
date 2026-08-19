@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
 | [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0541-reverse-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
