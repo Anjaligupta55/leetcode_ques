@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
