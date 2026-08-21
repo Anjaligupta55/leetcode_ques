@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0072-edit-distance) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0063-unique-paths-ii) |
@@ -310,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
