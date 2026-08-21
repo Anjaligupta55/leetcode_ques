@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0063-unique-paths-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
