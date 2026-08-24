@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0231-power-of-two) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0868-binary-gap) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
