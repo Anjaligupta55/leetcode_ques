@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0868-binary-gap) |
