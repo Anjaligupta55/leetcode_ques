@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0198-house-robber) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0868-binary-gap) |
