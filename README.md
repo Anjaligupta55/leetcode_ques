@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
