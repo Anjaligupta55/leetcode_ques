@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0412-fizz-buzz) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
