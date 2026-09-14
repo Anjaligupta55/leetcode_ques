@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0541-reverse-string-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0494-target-sum) |
