@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0035-search-insert-position) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bucket Sort
 |  |
