@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3925-concatenate-array-with-reverse) |
 ## Doubly-Linked List
 |  |
 | ------- |
