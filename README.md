@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3794-reverse-string-prefix](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3794-reverse-string-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3794-reverse-string-prefix](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
 | ------- |
