@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0046-permutations) |
+| [0052-n-queens-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0090-subsets-ii) |
@@ -459,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0583-delete-operation-for-two-strings) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
