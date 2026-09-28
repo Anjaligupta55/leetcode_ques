@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0877-stone-game) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
