@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
+| [0414-third-maximum-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1288-remove-covered-intervals) |
