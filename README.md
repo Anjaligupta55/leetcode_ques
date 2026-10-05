@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0115-distinct-subsequences) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
