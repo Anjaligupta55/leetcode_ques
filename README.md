@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
+| [0301-remove-invalid-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0392-is-subsequence) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0698-partition-to-k-equal-sum-subsets) |
