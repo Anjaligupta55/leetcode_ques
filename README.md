@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0520-detect-capital) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
