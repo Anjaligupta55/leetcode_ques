@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2742-painting-the-walls](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2742-painting-the-walls) |
 | [2784-check-if-array-is-good](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2784-check-if-array-is-good) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2094-finding-3-digit-even-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2784-check-if-array-is-good](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bucket Sort
 |  |
