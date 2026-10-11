@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2742-painting-the-walls](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2742-painting-the-walls) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1925-count-square-sum-triples) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
