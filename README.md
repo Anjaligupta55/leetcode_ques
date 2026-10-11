@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
@@ -611,4 +615,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0322-coin-change) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
