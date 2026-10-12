@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1096-brace-expansion-ii) |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0239-sliding-window-maximum) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
+| [0594-longest-harmonious-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
