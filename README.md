@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2742-painting-the-walls](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3379-transformed-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2784-check-if-array-is-good) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0868-binary-gap) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bucket Sort
 |  |
