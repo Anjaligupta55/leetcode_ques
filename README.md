@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3379-transformed-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Newton's Method
 |  |
 | ------- |
