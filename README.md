@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0473-matchsticks-to-square) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1004-max-consecutive-ones-iii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0494-target-sum) |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
