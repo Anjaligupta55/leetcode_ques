@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0541-reverse-string-ii) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0328-odd-even-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2094-finding-3-digit-even-numbers) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0856-score-of-parentheses) |
