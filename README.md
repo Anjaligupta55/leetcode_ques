@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1472-design-browser-history) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1732-find-the-highest-altitude) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1472-design-browser-history](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2000-reverse-prefix-of-word) |
@@ -708,4 +712,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
