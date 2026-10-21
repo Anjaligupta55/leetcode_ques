@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3675-minimum-operations-to-transform-string) |
 | [3794-reverse-string-prefix](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3794-reverse-string-prefix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
