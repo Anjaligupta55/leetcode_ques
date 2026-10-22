@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2094-finding-3-digit-even-numbers) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1763-longest-nice-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2000-reverse-prefix-of-word) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0868-binary-gap) |
+| [1763-longest-nice-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1763-longest-nice-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1763-longest-nice-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
