@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0868-binary-gap) |
 | [1763-longest-nice-substring](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1763-longest-nice-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Heap (Priority Queue)
 |  |
