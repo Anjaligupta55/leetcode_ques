@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
