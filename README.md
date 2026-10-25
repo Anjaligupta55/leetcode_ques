@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1331-rank-transform-of-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -207,12 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2685-count-the-number-of-complete-components) |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
