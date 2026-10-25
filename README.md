@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0713-subarray-product-less-than-k](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0733-flood-fill) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1260-shift-2d-grid) |
