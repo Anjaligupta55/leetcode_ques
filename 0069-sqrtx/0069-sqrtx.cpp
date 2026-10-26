@@ -4,21 +4,19 @@ public:
         if(x==0){
             return 0;
         }
+        int low=1;
+        int high=x;
         int ans=-1;
-        int l=1;
-        int h=x;
-        while(l<=h){
-            int mid=l+(h-l)/2;
-            if(mid==x/mid){
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            long long val=1LL*mid*mid;
+            if(val<=x){
                 ans=mid;
-                break;
+                low=mid+1;
             }
-            else if(mid>x/mid){
-                h=mid-1;
-            }
+           
             else{
-                ans=mid;
-                l=mid+1;
+                high=mid-1;
             }
         }
         return ans;
