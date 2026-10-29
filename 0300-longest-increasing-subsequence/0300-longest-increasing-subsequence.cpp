@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solve(int i,vector<int>& nums,vector<int>& dp){
+    int solve(int i,vector<int>&nums,vector<int>&dp){
         if(dp[i]!=-1){
             return dp[i];
         }
@@ -14,9 +14,10 @@ public:
         return dp[i];
     }
     int lengthOfLIS(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
+        int n=nums.size();
+        vector<int>dp(n,-1);
         int ans=1;
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<n;i++){
             ans=max(ans,solve(i,nums,dp));
         }
         return ans;
