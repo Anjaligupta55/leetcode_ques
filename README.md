@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0473-matchsticks-to-square](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0473-matchsticks-to-square) |
 | [0480-sliding-window-median](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0480-sliding-window-median) |
 | [0494-target-sum](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0494-target-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Anjaligupta55/leetcode_ques/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
