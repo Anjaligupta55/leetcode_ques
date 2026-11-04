@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2540-minimum-common-value) |
+| [2643-row-with-maximum-ones](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2643-row-with-maximum-ones) |
 | [2742-painting-the-walls](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2742-painting-the-walls) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2784-check-if-array-is-good) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2643-row-with-maximum-ones](https://github.com/Anjaligupta55/leetcode_ques/tree/master/2643-row-with-maximum-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anjaligupta55/leetcode_ques/tree/master/3882-minimum-xor-path-in-a-grid) |
